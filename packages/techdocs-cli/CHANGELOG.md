@@ -1,5 +1,11 @@
 # @techdocs/cli
 
+## 0.7.1
+
+### Patch Changes
+
+- 05f0409: Merge Jobs for Release Pull Requests and Package Publishes
+
 ## 0.7.0
 
 ### Minor Changes
